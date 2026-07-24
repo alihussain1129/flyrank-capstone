@@ -25,3 +25,4 @@ FlyRank Front-End AI Engineering Capstone
 4. Test changes.
 5. Commit changes with Conventional Commits.
 - Keep commits small and focused.
+- Write descriptive commit messages.
