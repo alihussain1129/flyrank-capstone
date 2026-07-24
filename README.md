@@ -23,6 +23,31 @@ This project is being developed using AI-assisted development practices. It demo
 - Build a production-quality frontend project
 - Practice version control using Git and GitHub
 
+## Getting Started
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) (LTS recommended)
+- [Git](https://git-scm.com/)
+- [Cursor](https://cursor.com/) (optional, for AI-assisted development)
+
+### Setup
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/alihussain1129/flyrank-capstone.git
+   cd flyrank-capstone
+   ```
+
+2. Install dependencies once a `package.json` is added:
+
+   ```bash
+   npm install
+   ```
+
+Run and build instructions will be added as the frontend application is developed.
+
 ## Repository Structure
 
 - `README.md` – Project documentation
