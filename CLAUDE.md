@@ -26,3 +26,4 @@ FlyRank Front-End AI Engineering Capstone
 5. Commit changes with Conventional Commits.
 - Keep commits small and focused.
 - Write descriptive commit messages.
+6. Push changes to GitHub after testing.
