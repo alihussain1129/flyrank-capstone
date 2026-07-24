@@ -6,6 +6,10 @@ This repository contains my capstone project for the FlyRank Front-End AI Engine
 
 This project is being developed using AI-assisted development practices. It demonstrates the use of modern development tools, Git, GitHub, and AI coding assistants.
 
+## Project Status
+
+Early development. Repository setup, documentation, and coding conventions are in place. The frontend application, `package.json`, and run/build scripts will be added as implementation progresses.
+
 ## Tech Stack
 
 - HTML5
